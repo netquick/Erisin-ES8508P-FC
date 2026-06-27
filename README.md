@@ -101,4 +101,5 @@ OK: 0.0.0.0
 
 This is expected behaviour.
 
-# Reverse Engineering FindingsThe following packages have been inspected.- Car Settings- FactorySettingFragment- PlatformSupportHelper- Car Provider- Car Assistant- OTA ComponentsInteresting architecture:Car Launcher    │    ▼Car Settings    │    ▼FactorySettingFragment    │    ▼SettingManager    │    ▼MCU / CAN / System Services
+# Reverse Engineering Findings
+The following packages have been inspected.- Car Settings- FactorySettingFragment- PlatformSupportHelper- Car Provider- Car Assistant- OTA ComponentsInteresting architecture:Car Launcher    │    ▼Car Settings    │    ▼FactorySettingFragment    │    ▼SettingManager    │    ▼MCU / CAN / System Services
