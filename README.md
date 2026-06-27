@@ -1,7 +1,7 @@
 # Erisin-ES8508P-FC
 Technical documentation for Headunit to Opel/Vauxhall
 
-##Erisin / Vastking A007 Platform Notes
+Erisin / Vastking A007 Platform Notes
 
 Reverse engineering notes for the Vastking A007 / Unisoc UMS512 Android head unit platform.
 
